@@ -15,3 +15,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+## Link
+1. [利用Mkdocs部署静态网页至GitHubpages](https://wcowin.work/blog/mkdocs/mkdocs1/#_3)
+2. [Mkdocs配置说明(mkdocs.yml)](https://wcowin.work/blog/mkdocs/mkdocs2/)

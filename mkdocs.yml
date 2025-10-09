@@ -53,9 +53,9 @@ theme:
     logo: logo
 
 nav:
-  - index: index.md
+  - Home: index.md
   - about: about/aboutme.md
-  - helloi: 
+  - Helloi: 
     - C++简介: oi/1.md
     - C++语法: oi/2.md
     - 常见算法: oi/3.md
