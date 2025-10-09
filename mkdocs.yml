@@ -1,0 +1,5 @@
+site_name: Yandocs
+site_url:
+site_author: yanjf
+theme:
+  name: material #主题
