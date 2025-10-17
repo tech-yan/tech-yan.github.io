@@ -18,4 +18,14 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Link
 1. [利用Mkdocs部署静态网页至GitHubpages](https://wcowin.work/blog/mkdocs/mkdocs1/#_3)
+
 2. [Mkdocs配置说明(mkdocs.yml)](https://wcowin.work/blog/mkdocs/mkdocs2/)
+
+   # image
+
+   
+
+![](https://raw.githubusercontent.com/tech-yan/MyIMGS/main/Pic/test.jpg)
+
+
+

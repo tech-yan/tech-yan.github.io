@@ -1,3 +1,5 @@
+![test](../pic/test.jpg)
+
 #[Info]
 site_name: Mkdocs教程 #your site name 显示在左上角
 site_url: http://wcowin.work/Mkdocs-Wcowin
@@ -7,6 +9,7 @@ site_author: 王科文(Wcowin) # your name
 theme:
   name: material
   custom_dir: docs/overrides #覆写路径
+
   # font: #谷歌字体，自行搜索
   #   text: Bitter  #文本字体
   #   code: Roboto Mono  #代码字体
